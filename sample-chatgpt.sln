@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.ChatGpt.WebApi", "src\Sample.ChatGpt.WebApi\Sample.ChatGpt.WebApi.csproj", "{658ECB5B-3750-41E9-9639-66204FEA6249}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.ChatGpt.WebApi.Core", "src\Sample.ChatGpt.WebApi.Core\Sample.ChatGpt.WebApi.Core.csproj", "{B5CD0238-4A34-4447-8137-61EDCFCD4244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{658ECB5B-3750-41E9-9639-66204FEA6249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658ECB5B-3750-41E9-9639-66204FEA6249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658ECB5B-3750-41E9-9639-66204FEA6249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658ECB5B-3750-41E9-9639-66204FEA6249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CD0238-4A34-4447-8137-61EDCFCD4244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CD0238-4A34-4447-8137-61EDCFCD4244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CD0238-4A34-4447-8137-61EDCFCD4244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CD0238-4A34-4447-8137-61EDCFCD4244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED24293-FCEB-4257-A890-7B61D64A99FE}
+	EndGlobalSection
+EndGlobal
